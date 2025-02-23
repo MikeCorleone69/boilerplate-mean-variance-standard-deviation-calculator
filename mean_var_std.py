@@ -41,4 +41,8 @@ def calculate(lst):
         ]
     }
 
-    return calculations
+    return calculationsgit add .
+git commit -m "Completed mean variance standard deviation calculator"
+git push origin main
+
+
